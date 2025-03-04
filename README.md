@@ -6,7 +6,7 @@ A simple and elegant **Mini Calendar** project that dynamically displays the cur
 
 ## 🚀 Live Preview
 
-🔗 [View Mini Calendar Online](#) *(Add live link if hosted)*
+🔗 [View Mini Calendar Online](https://mini-calender-navy.vercel.app/) 
 
 ---
 
@@ -67,7 +67,8 @@ Mini-Calendar/
 
 ## 📸 Preview
 
-*(Attach a screenshot of the project here for better understanding)*  
+![cal](https://github.com/user-attachments/assets/1a3e02d6-91f9-4b78-9377-aaa4120053e4)
+
 
 ---
 
